@@ -21,7 +21,6 @@
 <p>I'm a Computer Science Bachelor with a post-graduation specialization in FullStack Development.</p>
 <p>I've been working with web software development since 2011.</p>
 <p>I'm curently working with PHP.</p>
-<p>Avid code reviewer. I'm all in for documentation! </p>
 <p>I've been diagnosed as a high capabilities individual (aka intelectually gifted) by psychologist Lisete Horn in 2022.</p>
 
 ## Main tech stack
@@ -35,8 +34,9 @@
   <li>French and other languages</li>
   <li>D&D DM, miniature painter and story writting in general</li>
   <li>Airsoft</li>
-  <li>Avid planner</li>
+  <li>Avid reader</li>
   <li>Fitness and meal preping</li>
   <li>Brainstormer</li>
   <li>Investor</li>
+  <li>Love planning in general</li>
 </ul>
