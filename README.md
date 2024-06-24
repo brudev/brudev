@@ -27,7 +27,7 @@
 ## Main tech stack
 <p>
   
-[![My Skills]([https://skillicons.dev/icons?i=php,laravel,docker,nodejs,vue&theme=dark](https://skillicons.dev/icons?theme=light&i=linux,ubuntu,vim,vscode,git,php,mysql,html,css,js,jquery,bootstrap,docker,graphql,md,postman,wordpress,laravel&perline=6))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&i=linux,ubuntu,vim,vscode,git,php,mysql,html,css,js,jquery,bootstrap,docker,graphql,md,postman,wordpress,laravel&perline=6)](https://skillicons.dev)
 </p>
 
 ## Other Interests and Soft Skills
